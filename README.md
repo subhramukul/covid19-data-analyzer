@@ -25,3 +25,15 @@ streamlit run app.py
 ```
 
 ## 📁 Project Structure
+
+## 📈 Model Performance
+| Metric | Value |
+|--------|-------|
+| R² Score | 0.88 |
+| MAE | Rs. 3,241 |
+| Test Accuracy | 88.4% |
+
+## 👤 Author
+**Subhramukul Payra**  
+AI & ML Intern | KIIT University, Bhubaneswar  
+[LinkedIn](https://linkedin.com/in/subhramukul-payra-b4180527a)
