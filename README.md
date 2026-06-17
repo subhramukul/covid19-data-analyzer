@@ -25,6 +25,13 @@ streamlit run app.py
 ```
 
 ## 📁 Project Structure
+covid19-data-analyzer/
+│
+├── app.py # Main Streamlit dashboard
+├── data_loader.py # API fetching & preprocessing
+├── visualizations.py # Plotly chart functions
+├── requirements.txt
+└── README.md
 
 ## 📈 Model Performance
 | Metric | Value |
